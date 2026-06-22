@@ -4,7 +4,7 @@ public class Demo05 {
     //类变量从属于类 static
     static double salary = 5000;
 
-    //实例变量：从属于对象；如果不自行初始化，则为这个类型的默认值0 0.0；布尔值默认是flase；除了基本类型，其余的默认值都是null。
+    //实例变量：从属于对象；如果不自行初始化，则为这个类型的默认值0 0.0；布尔值默认是false；除了基本类型，其余的默认值都是null。
     String name;
     int age;
     //main 方法
